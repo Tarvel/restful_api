@@ -1,0 +1,7 @@
+A basic Flask RESTful API app uses Flask to handle web requests and return data in JSON format. It follows REST rules for creating, reading, updating, and deleting data (CRUD). The app has routes for GET, POST, PUT, and DELETE requests and stores data in memory or a simple database like SQLite.
+
+
+
+
+
+
